@@ -245,3 +245,9 @@ t33ny:
   description: "A teeny-tiny 3D printer"
   repository: "https://raw.githubusercontent.com/rockwillck/t33ny/refs/heads/main/JOURNAL.md"
   file_name: t33ny.md
+
+Terbium:
+  title: "Terbium"
+  description: "My First 3D Printer , i guess"
+  repository: "https://raw.githubusercontent.com/akulsaju/terbium/refs/heads/main/JOURNAL.md"
+  file_name: JOURNAL.md
